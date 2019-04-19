@@ -1,0 +1,2 @@
+Many of the examples have been taken or based on the materials from the amazing book:
+"High Performance Computing Modern Systems and Practices" by Thomas Sterling Matthew Anderson Maciej Brodowicz.
