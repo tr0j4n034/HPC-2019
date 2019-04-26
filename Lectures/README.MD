@@ -1,8 +1,6 @@
-# HPC-2019
+# Acknowledgements
 
-## Acknowledgements
-
-This course relies heavily on other courses and we gratefully acknowledge awesome work done by others - please let us know if reference to other resources is missing or reference is done incorrectly:
+In many cases we have copy-pasted amazing materials from others:
 
 1. Book by Thomas Sterling Matthew Anderson Maciej Brodowicz "High Performance Computing. Modern Systems and Practices" 1st Edition
 2. http://mpitutorial.com/   - one of the best resources to start with MPI
