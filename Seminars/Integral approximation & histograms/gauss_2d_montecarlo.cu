@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	const int M = 1024;
 	
 	// Grid parameters & iteration counts
-	const float lowx = -1., highx = +1., lowy = -1., highy = +1.;
+	const float lowx = -3., highx = +3., lowy = -3., highy = +3.;
 	const int perThreadIters = 10;
 	const int serialIters = 1000000;
 
