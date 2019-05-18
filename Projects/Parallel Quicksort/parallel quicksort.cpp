@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
     int binID = 0;
     for (int i = 0; i < N; i ++) {
         // int chunkID = int(lower_bound(splitters, splitters + size - 1, data[i]) - splitters);
-        if (binID < size - 1 && data[i] > splitters[binID]) binID ++;
+        if (binID < size - 1 && data[i] > splitters[binID]) binID ++; // better than binary_search
         chunks[binID].push_back(data[i]);
     }
     
